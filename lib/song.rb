@@ -7,7 +7,7 @@
       @artist = artist
       @genre = genre
       @@count = 0
-      @@count += 1 
+      @@count += 1
     end
     def count
       @count
