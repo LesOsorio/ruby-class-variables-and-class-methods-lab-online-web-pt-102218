@@ -1,5 +1,5 @@
 
-  class Song 
+  class Song
     attr_accessor :name, :artist, :grene
     
-  end 
+  end
