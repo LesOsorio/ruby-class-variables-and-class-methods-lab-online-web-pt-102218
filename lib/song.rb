@@ -6,4 +6,8 @@
       @artist = artist
       @genre = genre 
     end
+
+    @@count = 0 
+    @@artists = []
+    @@genres = []
   end
