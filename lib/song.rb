@@ -9,7 +9,7 @@
       @@song_count
     end
     def genre
-      @genre = genre 
-    end 
+      @@genre = []
+    end
 
   end
