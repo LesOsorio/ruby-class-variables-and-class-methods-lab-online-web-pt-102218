@@ -5,8 +5,9 @@
     def initialize
       @@count =+1
     end
-    def self.count 
+    def self.count
       @@song_count
     end 
-      
+    def genres
+
   end
