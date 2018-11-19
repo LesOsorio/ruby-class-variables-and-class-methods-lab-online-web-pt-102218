@@ -17,13 +17,13 @@
 
     def self.count
       @@count
-    end 
+    end
 
     def self.genres
       @@genres.uniq
-    end 
+    end
 
-    def self.artist 
+    def self.artist
       @@artist.uniq
     end 
 end
