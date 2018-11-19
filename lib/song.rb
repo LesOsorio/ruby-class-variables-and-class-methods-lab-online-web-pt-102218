@@ -7,7 +7,9 @@
     end
     def self.count
       @@song_count
+    end
+    def genre
+      @genre = genre 
     end 
-    def genres
 
   end
