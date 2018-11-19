@@ -27,4 +27,3 @@
       @@artist.uniq
     end
 end
-
