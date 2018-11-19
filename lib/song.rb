@@ -9,9 +9,9 @@
       @@count = 0
       @@count += 1 
     end
-    def count=(num)
-      @count = num
-    end 
+    def count
+      @count
+    end
 
 
   end
