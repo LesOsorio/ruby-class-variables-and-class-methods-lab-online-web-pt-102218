@@ -8,7 +8,6 @@
       @@count = 0
       @@count =+ 1
     end
-    def self.count 
+    def self.count
     @@count
-  end 
   end
