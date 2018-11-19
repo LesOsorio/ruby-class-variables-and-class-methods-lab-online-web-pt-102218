@@ -10,8 +10,6 @@
       @name = name
       @artist = artist
       @genre = genre
-      @genre << genre
-      @artist << artist
       @@count +=1
     end
 
