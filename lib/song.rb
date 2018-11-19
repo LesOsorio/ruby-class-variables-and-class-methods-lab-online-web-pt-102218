@@ -8,6 +8,7 @@
     end
 
     @@count = 0
+    @@count += 1
     @@artists = []
     @@genres = []
   end
